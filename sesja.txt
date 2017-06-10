@@ -1,0 +1,12 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="5" xOffset="0" scrollWidth="784" startPos="169" endPos="232" selMode="0" lang="PHP" encoding="-1" filename="J:\XAMPP\htdocs\TEST\index.php" backupFilePath="" originalFileLastModifTimestamp="1494699270" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="752" startPos="708" endPos="708" selMode="0" lang="PHP" encoding="-1" filename="J:\XAMPP\htdocs\TEST\login.php" backupFilePath="" originalFileLastModifTimestamp="1494709836" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="192" startPos="78" endPos="78" selMode="0" lang="CSS" encoding="-1" filename="J:\XAMPP\htdocs\TEST\styl.css" backupFilePath="" originalFileLastModifTimestamp="1494702088" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="264" startPos="124" endPos="124" selMode="0" lang="PHP" encoding="-1" filename="J:\XAMPP\htdocs\TEST\define.php" backupFilePath="" originalFileLastModifTimestamp="1494709953" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="104" startPos="27" endPos="27" selMode="0" lang="PHP" encoding="-1" filename="J:\XAMPP\htdocs\TEST\echo.php" backupFilePath="" originalFileLastModifTimestamp="1494709785" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

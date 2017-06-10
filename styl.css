@@ -1,0 +1,36 @@
+#D_form {
+height:100px;
+width:300px;
+border:5px solid orange;
+margin:10px;
+}
+#Loguj {
+color:blue;
+border: 2px solid blue;
+background-color:orange;
+margin:20px;
+}
+/* css do login.php wyzej */
+
+
+
+#TOP1_div { 
+width: 1024;
+height:768;
+border: 1px solid grey;
+background-color: aqua;
+float:left;
+}
+#TOP2_div {
+width:280px;
+height:768px;
+border: 1px solid grey;
+background-color: orange;
+float:left;
+}
+#AVATAR_div{
+width:250px;
+height:250px;
+border: 1px solid red;
+	
+}
